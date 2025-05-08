@@ -1,0 +1,285 @@
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.AssemblyReference.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfoInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfo.cs
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CoreCompileInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.exe
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.deps.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.runtimeconfig.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.YYvExitTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.build.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\scopedcss\bundle\YYvExitTest.styles.css
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CopyComplete
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\refint\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.genruntimeconfig.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\obj\Debug\net6.0\ref\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\FinalExitAssignment\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.exe
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.deps.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.runtimeconfig.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.AssemblyReference.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfoInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfo.cs
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CoreCompileInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.YYvExitTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.build.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YYvExitTest.props
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\scopedcss\bundle\YYvExitTest.styles.css
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CopyComplete
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\refint\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.genruntimeconfig.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\ref\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\appsettings.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.exe
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.deps.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.runtimeconfig.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\bin\Debug\net6.0\YYvExitTest.Buisness.pdb
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.AssemblyReference.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfoInputs.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.AssemblyInfo.cs
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CoreCompileInputs.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.YYvExitTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.build.YYvExitTest.props
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YYvExitTest.props
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YYvExitTest.props
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\scopedcss\bundle\YYvExitTest.styles.css
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.csproj.CopyComplete
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\refint\YYvExitTest.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.pdb
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\YYvExitTest.genruntimeconfig.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YYvExitTest\obj\Debug\net6.0\ref\YYvExitTest.dll

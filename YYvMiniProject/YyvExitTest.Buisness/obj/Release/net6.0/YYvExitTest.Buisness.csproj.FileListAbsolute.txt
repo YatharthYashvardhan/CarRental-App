@@ -1,0 +1,14 @@
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\bin\Release\net6.0\YYvExitTest.Buisness.deps.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\bin\Release\net6.0\YYvExitTest.Buisness.runtimeconfig.json
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\bin\Release\net6.0\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\bin\Release\net6.0\YYvExitTest.Buisness.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.csproj.AssemblyReference.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.AssemblyInfoInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.AssemblyInfo.cs
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\refint\YYvExitTest.Buisness.dll
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.pdb
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\YYvExitTest.Buisness.genruntimeconfig.cache
+C:\Users\yatharthyashvardhan\Desktop\myProject\yatharth-yashvardhan\YatharthYashvardhan_3201513_FinalTest\YYvExitTest\YyvExitTest.Buisness\obj\Release\net6.0\ref\YYvExitTest.Buisness.dll

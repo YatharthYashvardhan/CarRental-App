@@ -1,0 +1,44 @@
+<div class="card-container" style="align-items: center;margin-top: 80px;">
+    <div class="card table-card">
+      <h2>Car Detail</h2>
+      <div class="container table-container">
+        <table class="table table-striped">
+          <thead class="text-center">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Maker</th>
+              <th scope="col">Model</th>
+              <th scope="col">Price</th>
+            </tr>
+          </thead>
+          <tbody class="text-center">
+            <tr *ngFor="let car of Carcollectiondata; let i = index">
+                <td>{{ i + 1 }}</td>
+                <td>{{ car.maker }}</td>
+                <td>{{ car.model }}</td>
+                <td>{{ car.rentalPrice }}</td>
+              </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card form-card">
+      <h2>Rent a Car</h2>
+      <div class="alert alert-danger" *ngIf="formError">{{ formError }}</div>
+
+      <form [formGroup]="carForm" (ngSubmit)="Submit()">
+        <div class="form-group">
+          <label for="RentalStartDate">Start Date:</label>
+          <input type="date" id="RentalStartDate" formControlName="RentalStartDate" required class="form-control">
+        </div>
+        <div class="form-group">
+          <label for="RentalEndDate">End Date:</label>
+          <input type="date" id="RentalEndDate" formControlName="RentalEndDate" required class="form-control">
+        </div>
+        <input type="hidden" formControlName="CarId">
+        <input type="hidden" formControlName="UserEmail">
+        <button type="submit" [disabled]="!carForm.valid" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+  </div>

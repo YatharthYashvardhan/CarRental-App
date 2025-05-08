@@ -1,0 +1,88 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 20px;
+  }
+  
+  .card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .table-card {
+    margin-right: 10px; /* Add some spacing between the cards */
+  }
+  
+  .form-card {
+    margin-left: 10px; /* Add some spacing between the cards */
+  }
+  
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

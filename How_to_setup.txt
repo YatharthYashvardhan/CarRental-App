@@ -1,0 +1,34 @@
+"ConnectionStrings": {
+  "SqlConnection": "Server= IN-61PN6S3 ;Database=CarRentalDB; MultipleActiveResultSets=True; Trusted_Connection=True; TrustServerCertificate=True"
+},
+
+You have to change this Server with your local sql server.
+
+
+  "AppSettings": {
+    "UserName": "admin",
+    "UserEmail": "myadmin@test.com",
+    "UserPassword": "Test@321",
+    "AdminUserEmail": "myadmin@test.com"
+  },
+
+These are the admin login
+
+ 
+  "Jwt": {
+    "ValidAudience": "https://localhost:44322/",
+    "ValidIssuer": "https://localhost:44322/",
+    "Secret": "This is the secret key for jwt"
+  }
+
+
+You have to change this you have to change jwt token local host
+
+install this : npm i --save bootstrap   
+
+
+
+
+
+
+

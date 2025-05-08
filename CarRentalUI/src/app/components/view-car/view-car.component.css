@@ -1,0 +1,26 @@
+.car-card {
+    background-color: #f8f9fa;
+    border: 1px solid #d1d1d1;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+
+  .car-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+
+  .card-text strong {
+    font-weight: bold;
+  }
+
+  .card-header {
+    background-color: #343a40;
+    color: white;
+    font-weight: bold;
+  }
+
+  .container {
+    margin-top: 20px;
+  }

@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg fixed-top bg-light navbar-light">
+  <div class="container">
+    <h1 class="display-6" routerLink="">Car Rental App</h1>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto align-items-center">
+
+          <li class="nav-item" *ngIf="email == 'myadmin@test.com'">
+            <a class="nav-link mx-2" routerLink="AddCars"><i class="fas fa-plus-circle pe-2"></i>Add Cars</a>
+          </li>
+          <li class="nav-item" *ngIf="email == 'myadmin@test.com'">
+            <a class="nav-link mx-2" routerLink="Bookings"><i class="fas fa-taxi pe-2"></i>Bookings</a>
+          </li>
+          <li class="nav-item" *ngIf="email == 'myadmin@test.com'">
+            <a class="nav-link mx-2" routerLink="ReturnRequests"><i class="fas fa-bell pe-2"></i>Return Requests</a>
+          </li>
+        
+        <li class="nav-item" *ngIf="isLoggedIn && email !== 'myadmin@test.com'">
+          <a class="nav-link mx-2" routerLink="ViewBookings" ><i class="fas fa-taxi pe-2"></i>My Rental</a>
+        </li>
+        <!-- <li class="nav-item" *ngIf="isLoggedIn && email !== 'myadmin@test.com'">
+          <a class="nav-link mx-2" routerLink="userNotification"><i class="fas fa-bell pe-2"></i>Notification</a>
+        </li> -->
+        <div class="navbar-nav ml-auto logout-button">
+          <div *ngIf="isLoggedIn; else elseBlock">
+            <a class="nav-link" href="/" (click)="logout()">Logout</a>
+          </div>
+        </div>
+        <ng-template #elseBlock>
+          <a class="nav-link btn btn-black btn-rounded" routerLink="RegisterUser">SignUp</a>
+          <a class="nav-link btn btn-black btn-rounded" routerLink="Login">Login</a>
+        </ng-template> 
+      </ul>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

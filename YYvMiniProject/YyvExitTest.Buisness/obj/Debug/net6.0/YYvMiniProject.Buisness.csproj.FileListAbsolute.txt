@@ -1,0 +1,14 @@
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\bin\Debug\net6.0\YYvMiniProject.Buisness.deps.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\bin\Debug\net6.0\YYvMiniProject.Buisness.runtimeconfig.json
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\bin\Debug\net6.0\YYvMiniProject.Buisness.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\bin\Debug\net6.0\YYvMiniProject.Buisness.pdb
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.csproj.AssemblyReference.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.AssemblyInfoInputs.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.AssemblyInfo.cs
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\refint\YYvMiniProject.Buisness.dll
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.pdb
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\YYvMiniProject.Buisness.genruntimeconfig.cache
+C:\Users\yatharthyashvardhan\OneDrive - Nagarro\Desktop\myProject\yatharth-yashvardhan\Mini-Project-Assignment\YYvMiniProject\YyvExitTest.Buisness\obj\Debug\net6.0\ref\YYvMiniProject.Buisness.dll

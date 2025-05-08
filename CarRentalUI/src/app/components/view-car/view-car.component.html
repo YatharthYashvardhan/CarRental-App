@@ -1,0 +1,39 @@
+<div class="container" style="margin-top: 80px;">
+  <div class="row">
+      <div class="col-12">
+          <!-- Back Button -->
+          <a href="/" class="btn btn-secondary float-right">
+              <i class="fas fa-arrow-left"></i> Back
+          </a>
+          <!-- End Back Button -->
+          <div class="card">
+              <div class="card-header">
+                  Car Information
+              </div>
+              <div class="card-body">
+                  <div class="row">
+                      <div class="col-md-4" *ngFor="let car of collection">
+                          <div class="card car-card">
+                              <div class="card-body">
+                                  <h5 class="card-title car-title">
+                                      <strong>{{ car.maker }} - {{ car.model }}</strong>
+                                  </h5>
+                                  <p class="card-text">
+                                      <strong>Price:</strong> ${{ car.rentalPrice }}<br>
+                                      <strong>Transmission Type:</strong> {{ car.transmissionType }}<br>
+                                      <strong>Year:</strong> {{ car.year }}<br>
+                                      <strong>Number of Doors:</strong> {{ car.numberOfDoors }}<br>
+                                      <strong>Mileage:</strong> {{ car.mileage }} miles<br>
+                                      <strong>Last Maintenance Date:</strong> {{ car.lastMaintenanceDate | date: 'dd-MM-yyyy' }}<br>
+                                      <strong>Fuel Type:</strong> {{ car.fuelType }}<br>
+                                      <strong>Color:</strong> {{ car.color }}<br>
+                                  </p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

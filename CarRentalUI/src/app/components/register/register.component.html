@@ -1,0 +1,70 @@
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+      <div class="fadeIn first">
+        <i class="fa fa-user-circle" style="font-size:48px;"></i>
+      </div>
+      <form [formGroup]="registerForm" class="add" autocomplete="off" (ngSubmit)="CollectUser()" *ngIf="registerForm">
+        <div>
+          <input type="text" id="FullName" name="FullName" required class="form-control fadeIn second"
+            formControlName="fullName" placeholder="FullName">
+          <div class="form-text text-span" *ngIf="FullName.errors?.['required'] && (FullName.touched || FullName.dirty)">
+            Full Name is required
+          </div>
+          <div class="form-text text-span" *ngIf="FullName.errors?.['maxlength'] && (FullName.touched || FullName.dirty)">
+            Maximum 50 characters allowed
+          </div>
+        </div>
+        <div>
+          <input type="email" id="email" name="email" required class="form-control fadeIn second" formControlName="email"
+            placeholder="Email">
+          <div class="form-text text-span" *ngIf="Email.errors?.['required'] && (Email.touched || Email.dirty)">
+            Email is required
+          </div>
+          <div class="form-text text-span" *ngIf="Email.errors?.['email'] && (Email.touched || Email.dirty)">
+            Invalid email format
+          </div>
+        </div>
+        <div>
+          <input type="text" id="phoneNumber" name="PhoneNumber" required class="form-control fadeIn second"
+            formControlName="phoneNumber" placeholder="PhoneNumber">
+          <div class="form-text text-span"
+            *ngIf="PhoneNumber.errors?.['required'] && (PhoneNumber.touched || PhoneNumber.dirty)">
+            Phone number is required
+          </div>
+          <div class="form-text text-span"
+            *ngIf="PhoneNumber.errors?.['pattern'] && (PhoneNumber.touched || PhoneNumber.dirty)">
+            Invalid phone number format
+          </div>
+        </div>
+        <div>
+          <input type="password" id="password" name="Password" required class="form-control fadeIn third"
+            formControlName="password" placeholder="Password">
+          <div class="form-text text-span" *ngIf="Password.errors?.['required'] && (Password.touched || Password.dirty)">
+            Password is required
+          </div>
+          <div class="form-text text-span" *ngIf="Password.errors?.['minlength'] && (Password.touched || Password.dirty)">
+            Minimum 8 characters required
+          </div>
+          <div class="form-text text-span" *ngIf="Password.errors?.['pattern'] && (Password.touched || Password.dirty)">
+            Password must contain at least one letter, one number, and one special character
+          </div>
+        </div>
+        <div>
+          <input type="password" id="confirmPassword" name="ConfirmPassword" required class="form-control fadeIn third"
+            formControlName="confirmPassword" placeholder="ConfirmPassword">
+          <div class="form-text text-span"
+            *ngIf="confirmPassword.errors?.['required'] && (confirmPassword.touched || confirmPassword.dirty)">
+            Confirm password is required
+          </div>
+          <div class="form-text text-span"
+            *ngIf="registerForm.errors?.['passwordMismatch'] && (confirmPassword.touched || confirmPassword.dirty)">
+            Password and confirm password do not match
+          </div>
+        </div>
+        <input type="submit" class="fadeIn fourth" value="Log In">
+      </form>
+      <div id="formFooter">
+        <a class="underlineHover" routerLink="/Login">Already have an account</a>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,35 @@
+<div class="container" style="margin-top: 80px;">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Car</th>
+        <th scope="col">Rental Start Date</th>
+        <th scope="col">Rental End Date</th>
+        <th scope="col">Rental Duration</th>
+        <th scope="col">Total Cost</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let car of collection; let i = index">
+        <ng-container *ngIf="car.userEmail === email">
+          <td>
+            <div class="center-items">
+              <a [routerLink]="['/CarDetails', car.carId]" class='fas fa-car' style='font-size:23px; color: black;'></a>
+            </div>
+          </td>
+          <td>{{ car.rentalStartDate | date: 'yyyy-MM-dd' }}</td>
+          <td>{{ car.rentalEndDate | date: 'yyyy-MM-dd' }}</td>
+          <td>{{ car.rentalDuration }}</td>
+          <td>{{ car.totalCost }}</td>
+          <td>
+            <div class="center-items">
+              <button type="button" class="btn btn-danger" (click)="returnCar(car.id)" *ngIf="car.isReturnRequested === false">Return Car</button>
+              <button type="button" class="btn btn-danger" disabled *ngIf="car.isReturnRequested === true">Return Requested</button>
+            </div>
+          </td>
+        </ng-container>
+      </tr>
+    </tbody>
+  </table>
+</div>

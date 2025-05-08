@@ -1,0 +1,16 @@
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Rental Agreement</h5>
+    <form [formGroup]="agreementData" (submit)="Submit()">
+      <div class="form-group">
+        <label for="RentalStartDate">Start Date:</label>
+        <input type="date" id="RentalStartDate" formControlName="rentalStartDate" required class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="RentalEndDate">End Date:</label>
+        <input type="date" id="RentalEndDate" formControlName="rentalEndDate" required class="form-control">
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</div>
